@@ -1,6 +1,6 @@
 # IWant2TryHard's custom Resource Pack
-
 ---
+
 Based off of a Vanilla Tweaks Resource Pack
 Version: 1.16-1.18
 Packs:
@@ -104,7 +104,9 @@ Packs:
 	HoeFix
 	ItemHoldFix
 	CatFix	
+	
 ---
+
 Custom additions:
 	Low(er)Fire
 	NoBlockParticles
