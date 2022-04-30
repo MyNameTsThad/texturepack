@@ -1,0 +1,22 @@
+{
+    "parent": "item/handheld",
+	"author": "IWant2TryHard",
+    "textures": {
+        "layer0": "optifine/cit/gui/sf_menu/contributors.png"
+    },
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 1, 0 ],
+			"scale": [ 0.55, 0.55, 0.55 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 1, 0 ],
+			"scale": [ 0.55, 0.55, 0.55 ]
+		},
+		"gui": {
+			"scale": [ 1.11, 1.11, 1.11 ]
+		}
+	}
+}

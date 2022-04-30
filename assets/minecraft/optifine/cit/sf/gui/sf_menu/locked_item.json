@@ -1,0 +1,11 @@
+{
+		"parent": "item/generated",
+	"textures": {
+		"layer0": "./locked_item"
+	},
+	"display": {
+		"gui": {
+			"scale": [ 1.11, 1.11, 1.11 ]
+		}
+	}
+}

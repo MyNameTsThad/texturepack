@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./royale_generators"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ 180, -45, 0 ],
+            "translation": [ 0, 1, -2.5 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, -180, 0 ],
+            "scale": [ 0.55, 0.55, 0.55 ]
+        },
+        "gui": {
+            "scale": [ 1.11, 1.11, 1.11 ]
+        }
+    }
+}
